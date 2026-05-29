@@ -1,0 +1,29 @@
+# HuggingFace cache (large blobs)
+hf_cache/
+
+# Generated corpus sample data
+corpus_samples/
+small_encode_sequence_label.jsonl
+small_encode_sequence_label_details.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
